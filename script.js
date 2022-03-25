@@ -420,3 +420,5 @@ while(dice !==6) {
       dice = Math.trunc(Math.random(dice) * 10) +1;
       if(dice ===6) console.log(`🎊🎈🎆Your the Winner🎊🎈🎆`)
 };
+
+// trying sometthing
